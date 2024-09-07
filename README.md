@@ -2,7 +2,8 @@
 My name is Kevin Ribas, I'm 22 years old. I'm studying Software Engineering at PUCRS in Porto Alegre, Brazil.
 
 ## Contact ✉️
-Email: kevin.r@edu.pucrs.br
+Email: contato@kevinribas.com
+Email: contact@kevinribas.com
 
 ## Technologies 🖥️
 <div style="display: inline_block"><br>
