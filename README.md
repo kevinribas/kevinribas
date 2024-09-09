@@ -6,20 +6,13 @@
 ###
 
 <div align="center">
-  <a href="mailto:contact@kevinribas.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.linkedin.com/in/kevinribas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://discordapp.com/users/300331219307200512/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/kevin.ribas/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kevinribas.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinribas/)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/300331219307200512/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin.ribas/)
+  
 </div>
-
 
 ## Hello there 👋
 My name is Kevin Ribas, I'm 22 years old. I'm studying Software Engineering at PUCRS in Porto Alegre, Brazil.
