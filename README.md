@@ -15,7 +15,8 @@
 </div>
 
 ## Hello there 👋
-My name is Kevin Ribas, I'm 22 years old. I'm studying Software Engineering at PUCRS in Porto Alegre, Brazil.
+My name is Kevin Ribas, I'm 22 years old. I'm studying Software Engineering at PUCRS in Porto Alegre, Brazil. \
+Currently I am working with software quality assurance (QA) at DBC Company.
 
 ## Contact me ✉️
 Email: contato@kevinribas.com  \
